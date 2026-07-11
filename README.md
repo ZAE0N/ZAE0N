@@ -51,8 +51,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAE0N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAE0N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-three-sooty-42.vercel.app/api?username=ZAE0N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats-three-sooty-42.vercel.app/api/top-langs/?username=ZAE0N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160"/>
 </div>
 
 ## 📫 Contact
