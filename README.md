@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 스페이스 헤더 (레포에 함께 올린 header.svg) -->
-<img src="header.svg" alt="Junghyun — AI · Data · Computer Vision" width="100%"/>
+<img src="header.svg" alt="JEON — AI · Data · Computer Vision" width="100%"/>
 
 <!-- 타이핑 애니메이션 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=8FA3D9&center=true&vCenter=true&width=520&lines=Student+%40+Inha+Technical+College;Learning+AI+%E2%80%94+Data+%26+Computer+Vision;Idea+%E2%86%92+Architecture+%E2%86%92+Deploy" alt="typing"/>
