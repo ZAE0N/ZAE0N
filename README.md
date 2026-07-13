@@ -14,15 +14,6 @@
 - 🌱 **Learning:** AI — especially **Data & Computer Vision**, with `PyTorch` · `FastAPI` · `Docker`
 - ⚙️ **Values:** Architecture design · Idea development · Ops & Deployment
 
-## 🏆 Awards
-
-| 연도 | 대회/주최 | 성과 |
-|------|----------|------|
-| 2026 | 하계학술대회 (한국컴퓨터정보학회) | 🏅 우수논문상 |
-| 2026 | K-Hackathon for Global (한국컴퓨터정보학회) | 🥈 우수상 |
-| 2025 | 전국창의코딩경진대회 (영남이공대학교 공학기술교육혁신센터) | 🎖 장려상 |
-| 2025 | 동계학술대회 (한국컴퓨터정보학회) | 🏅 우수논문상 |
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -63,6 +54,15 @@
   <img src="https://github-readme-stats-three-sooty-42.vercel.app/api?username=ZAE0N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats-three-sooty-42.vercel.app/api/top-langs/?username=ZAE0N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160"/>
 </div>
+
+## 🏆 Awards
+
+| 연도 | 대회/주최 | 성과 |
+|------|----------|------|
+| 2026 | 하계학술대회 (한국컴퓨터정보학회) | 🏅 우수논문상 |
+| 2026 | K-Hackathon for Global (한국컴퓨터정보학회) | 🥈 우수상 |
+| 2025 | 전국창의코딩경진대회 (영남이공대학교 공학기술교육혁신센터) | 🎖 장려상 |
+| 2025 | 동계학술대회 (한국컴퓨터정보학회) | 🏅 우수논문상 |
 
 ## 📫 Contact
 
