@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- 스페이스 헤더 (레포에 함께 올린 header.svg) -->
-<img src="header.svg" alt="JEON — AI · Data · Computer Vision" width="100%"/>
-
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=8FA3D9&center=true&vCenter=true&width=520&lines=Student+%40+Inha+Technical+College;Learning+AI+%E2%80%94+Data+%26+Computer+Vision;Idea+%E2%86%92+Architecture+%E2%86%92+Deploy" alt="typing"/>
+  <img src="header.svg" alt="JEON — AI · Data · Computer Vision" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=8FA3D9&center=true&vCenter=true&width=520&lines=Student+%40+Inha+Technical+College;Learning+AI+%E2%80%94+Data+%26+Computer+Vision;Idea+%E2%86%92+Architecture+%E2%86%92+Deploy" alt="typing"/>
 
 </div>
 
@@ -20,21 +17,32 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-5C6BC0?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-learning-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=3A4048)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-learning-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=3A4048)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+
+### Services
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🧩 Problem Solving
 
