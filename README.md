@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🔭 **Working on:** Student @ Inha Technical College
-- 🌱 **Learning:** AI — especially **Data & Computer Vision**, with `PyTorch` · `FastAPI` · `Docker`
+- 🌱 **Learning:** AI — especially **Data & Computer Vision**, with · `FastAPI` · `Docker`
 - ⚙️ **Values:** Architecture design · Idea development · Ops & Deployment
 
 ## 🛠 Tech Stack
@@ -19,8 +19,6 @@
 ![C](https://img.shields.io/badge/C-5C6BC0?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 ### Frameworks & Libraries
@@ -29,6 +27,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-learning-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=3A4048)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
