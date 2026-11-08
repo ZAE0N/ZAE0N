@@ -43,18 +43,6 @@
 ### Services
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 
-## 🧩 Problem Solving
-
-<img src="https://leetcard.jacoblin.cool/ZAE0N?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="480"/>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAE0N/ZAE0N/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZAE0N/ZAE0N/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ZAE0N/ZAE0N/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-</picture>
-
 ## 📈 GitHub Stats
 
 <div align="center">
